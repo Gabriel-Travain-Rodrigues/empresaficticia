@@ -1,0 +1,10 @@
+.lista-item{
+    display: flex;
+    list-style: none;
+    text-align: center;
+    margin: 0 auto;
+    margin-left: 36%;
+}
+.lista-item li{
+    text-align: center;
+}

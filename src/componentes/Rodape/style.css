@@ -1,9 +1,9 @@
-.rodape{
-    background-color: #000000;
-    color: white;
-    text-align: center;
-    height: 12%;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+.rodape {
+  background-color: #000000;
+  color: white;
+  text-align: center;
+  height: 12%;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }

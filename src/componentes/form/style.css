@@ -1,15 +1,13 @@
-label{
+label {
   /* Centraliza o texto dentro do label */
-    display: block;
-    flex-direction: row;
-    text-align: center;
-    margin-bottom: 5px;
+  display: block;
+  flex-direction: row;
+  text-align: center;
+  margin-bottom: 5px;
 }
-input{
-    width: 15%; /* Faz o input ocupar toda a largura do label */
-    padding: 5px; /* Adiciona espaçamento interno */
-    box-sizing: border-box; /* Inclui padding e border no cálculo da largura total */
-    margin-bottom: 10px; /* Espaçamento entre os inputs */
-    
-    
+input {
+  width: 15%; /* Faz o input ocupar toda a largura do label */
+  padding: 5px; /* Adiciona espaçamento interno */
+  box-sizing: border-box; /* Inclui padding e border no cálculo da largura total */
+  margin-bottom: 10px; /* Espaçamento entre os inputs */
 }

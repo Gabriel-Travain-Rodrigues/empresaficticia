@@ -1,18 +1,17 @@
-.navbar{
-    list-style: none;
-    display: inline-block;
-    background-color: black;
-    width: 100%;
-    height: 50px;
-   
+.navbar {
+  list-style: none;
+  display: inline-block;
+  background-color: black;
+  width: 100%;
+  height: 50px;
 }
-.navbar li{
-    display: inline-block;
-    margin:0 10px;
-    line-height: 50px;
-    text-align: center;
+.navbar li {
+  display: inline-block;
+  margin: 0 10px;
+  line-height: 50px;
+  text-align: center;
 }
-.navbar li a{
-    text-decoration: none;
-    color: white;
-}   
+.navbar li a {
+  text-decoration: none;
+  color: white;
+}

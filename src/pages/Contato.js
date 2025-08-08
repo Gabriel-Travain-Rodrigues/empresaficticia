@@ -10,6 +10,10 @@ function Contato() {
   const [mensagem, setMensagem] = useState("");
 
   function aoSalvar() {
+    if (!nome || !email || !mensagem) {
+      alert("Por favor, preencha todos os campos.");
+      return;
+    }
     alert(
       `Dados enviados com sucesso!\nNome: ${nome}\nEmail: ${email}\nMensagem: ${mensagem}`
     );
